@@ -1,0 +1,2 @@
+# wcy-app
+husky
